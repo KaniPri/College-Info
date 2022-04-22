@@ -1,5 +1,8 @@
 package org.test01;
 
-public class Alerts {
 
+
+public class Alerts {
+	
+	 int a;
 }
